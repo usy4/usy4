@@ -27,11 +27,8 @@
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🎮 Discord Profile
-<a href="https://discord.com/users/1263457746829705310" target="_blank">
-  <img width="100%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1263457746829705310">
-</a>
-<img alt="Discord profile" src="http://95.169.177.141:2009/1087371063849127946?format=image">
+
+<img alt="Discord profile" src="http://95.169.177.141:2009/380045837457162242?format=image">
 
 ## 📊 GitHub Stats
 ![usy4's GitHub stats](https://github-readme-stats.vercel.app/api?username=usy4&show_icons=true&theme=radical)
