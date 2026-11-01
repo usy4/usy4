@@ -1,6 +1,6 @@
-# Hi there! I'm usy4 👋
+# Hi there! I'm usy4...
 
-## 🚀 Technologies & Skills
+## Technologies & Skills
 
 ### Programming Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
@@ -27,17 +27,22 @@
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+## Discord Profile
+<a href="https://discord.com/users/380045837457162242" target="_blank">
+  <img alt="Discord profile" src="http://95.169.177.141:2009/380045837457162242?format=image">
+</a>
 
-<img alt="Discord profile" src="http://95.169.177.141:2009/380045837457162242?format=image">
 
-## 📊 GitHub Stats
+
+
+## GitHub Stats
 ![usy4's GitHub stats](https://github-readme-stats.vercel.app/api?username=usy4&show_icons=true&theme=radical)
 
-## 🌱 About Me
-- Experienced with building PocketMine plugins for Minecraft servers 🕹️
-- Always learning and exploring new technologies 🔍
-- Love building projects and solving problems 🛠️
-- Open to collaboration on interesting projects 🤝
+## About Me
+- Experienced with building PocketMine plugins for Minecraft servers
+- Always learning and exploring new technologies
+- Love building projects and solving problems 
+- Open to collaboration on interesting projects 
 
-## 📫 Connect with Me
+## Connect with Me
 - GitHub: [usy4](https://github.com/usy4)
